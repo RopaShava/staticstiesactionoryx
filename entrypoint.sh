@@ -1,3 +1,3 @@
 #!/bin/sh -l
 cd /bin/staticsites/
-./StaticSitesClient $INPUT_ACTION --oryxEnabled true
+./Client $INPUT_ACTION --oryxEnabled true
