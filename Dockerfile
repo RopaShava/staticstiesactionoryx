@@ -1,4 +1,4 @@
-FROM rshava2/rsswa:swa
+FROM rshava2/rsswa:latest
 
 # Copies your code file from your action repository to the filesystem path `/` of the container
 COPY entrypoint.sh /entrypoint.sh
