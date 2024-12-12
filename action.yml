@@ -43,6 +43,9 @@ inputs:
   id_token:
     description: "IdToken"
     required: false
+  github_id_token:
+    description: "GitHub Auth id token"
+    required: false
 outputs:
   static_web_app_url:
     description: "Url of the application"
